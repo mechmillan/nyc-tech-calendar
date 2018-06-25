@@ -1,5 +1,7 @@
 # How to run
 - First, run ```npm install``` in both CalenderFrontEnd folder and root folder.
+- To instantiate database, in terminal of root folder, run ```createdb calender```
+- Check with Postico or psql CLI if db was created sucessfully.
 - Inside CalenderFrontEnd folder, run ```npm run start:dev``` in terminal to start front-end.
 - Inside CalenderBackEnd folder, run ```npm start``` in terminal to start-up back-end api.
 - After, front-end available on: localhost:8080
