@@ -3,8 +3,8 @@ There are two parts to this: a frontend and a backend. Feel free to use whatever
 
 Please upload the answers to these questions in the same GitHub repo and name the folders CalendarFrontEnd and CalendarBackend.
 
-##Specs
-## FRONT END APP / MOBILE APP
+## Specs
+### FRONT END APP / MOBILE APP
 While you start thinking about building the calendar app, you’ll probably start to ask how full featured it needs to be. Here’s our list of things it must do, as well as a list of things that you can consider but do not have to do.
 
 Must Have Specs
@@ -28,17 +28,17 @@ Optional Specs (Not required; bonus points available for inclusion of one or mor
 - The UI should have 5 rows of 7 boxes with the correct date on the correct days.
 
 
-## BACK END
+### BACK END
 Build the backend of the calendar application. The API for the calendar should be the following:
 
-# Events (Minimum Required API)
+#### Events (Minimum Required API)
 POST /events
 - [x] Should create an event
 
 GET /events
 - [x] Should return all events
 
-# Events (Optional API. Not required; bonus points available)
+#### Events (Optional API. Not required; bonus points available)
 DELETE /events/:id
 - [x] Should delete an event
 
