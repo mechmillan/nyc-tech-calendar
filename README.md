@@ -1,9 +1,9 @@
 # How to run
 - First, run ```npm install``` in both CalenderFrontEnd folder and root folder.
-- Inside CalenderFrontEnd folder, run ```npm run start:dev``` in terminal.
+- Inside CalenderFrontEnd folder, run ```npm run start:dev``` in terminal to start front-end.
 - Inside CalenderBackEnd folder, run ```npm start``` in terminal to start-up back-end api.
-- After, front-end available on: [localhost:8080](localhost:8080)
-- After, back-end available on: [localhost:3000](localhost:3000)
+- After, front-end available on: (localhost:8080)[localhost:8080]
+- After, back-end available on: (localhost:3000)[localhost:3000]
 
 ## Web
 There are two parts to this: a frontend and a backend. Feel free to use whatever frontend or backend framework you'd like (React/Ember/Rails etc.). It would take a long time to build a full featured calendar app, so we're going to focus on a few parts. Feel free to use any JavaScript library or framework, but don’t use something that builds the calendar for you. For example, jQuery or React would be fine; fullcalendar.io would not.
