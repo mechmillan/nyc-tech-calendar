@@ -94,4 +94,4 @@ PUT /events/:id
 ```
 
 ## Sample Front-End
-- ![April 2018](https://i.imgur.com/cPuafRD.png)
+![April 2018](https://i.imgur.com/cPuafRD.png)
