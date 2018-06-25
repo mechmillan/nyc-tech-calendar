@@ -1,0 +1,141 @@
+html {
+  background: rgb(235, 235, 232);
+}
+
+.header {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: skyblue;
+}
+
+.header button {
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+.header p {
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+.date-card li {
+  font-size: small;
+  list-style-type: none;
+  margin: auto;
+}
+
+/* Week 1 styling */
+.week1 {
+  display: flex;
+  justify-content: center;
+  background: rgb(235, 235, 232);
+}
+
+.week1 .date-card {
+  height: 110px;
+  width: 150px;
+  margin-left: 1px;
+  margin-right: 1px;
+  border: 0.5px solid grey;
+}
+
+.week1 .date-card span {
+  margin-left: 5px;
+  margin-top: 1px;
+}
+
+/* Week 2 styling */
+.week2 {
+  display: flex;
+  justify-content: center;
+  background: rgb(235, 235, 232);
+}
+
+.week2 .date-card {
+  height: 110px;
+  width: 150px;
+  margin-left: 1px;
+  margin-right: 1px;
+  border: 0.5px solid grey;
+}
+
+.week2 .date-card span {
+  margin-left: 5px;
+  margin-top: 1px;
+}
+
+/* Week 3 styling */
+.week3 {
+  display: flex;
+  justify-content: center;
+  background: rgb(235, 235, 232);
+}
+
+.week3 .date-card {
+  height: 110px;
+  width: 150px;
+  margin-left: 1px;
+  margin-right: 1px;
+  border: 0.5px solid grey;
+}
+
+.week3 .date-card span {
+  margin-left: 5px;
+  margin-top: 1px;
+}
+
+/* Week 4 styling */
+.week4 {
+  display: flex;
+  justify-content: center;
+  background: rgb(235, 235, 232);
+}
+
+.week4 .date-card {
+  height: 110px;
+  width: 150px;
+  margin-left: 1px;
+  margin-right: 1px;
+  border: 0.5px solid grey;
+}
+
+.week4 .date-card span {
+  margin-left: 5px;
+  margin-top: 1px;
+}
+
+.weekDays {
+  display: flex;
+  justify-content: center;
+  background: rgb(235, 235, 232);
+}
+
+.weekDays p {
+  height: 5px;
+  width: 150px;
+  margin-left: 1px;
+  margin-right: 1px;
+}
+
+.event-form {
+  display: flex;
+  flex-direction: column;
+  width: 50px;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  margin: auto;
+  /* background-color: rgba(0,0,0, 0.5); */
+}
+
+.event-form_inner {
+  position: absolute;
+  right: 10%;
+  left: 10%;
+  top: 550px;
+  bottom: 25%;
+  margin: auto;
+  background: white;
+}

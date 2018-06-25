@@ -1,0 +1,27 @@
+{
+  "name": "calender",
+  "version": "1.0.0",
+  "description": "spotify-calender",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon -e html,js,css ./CalenderBackend/index.js"
+  },
+  "keywords": [
+    "nyc",
+    "spotify",
+    "calender"
+  ],
+  "author": "Alfonso Millan",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.3",
+    "morgan": "^1.9.0",
+    "pg": "^6.4.2",
+    "sequelize": "^4.38.0"
+  },
+  "devDependencies": {
+    "nodemon": "^1.17.5"
+  }
+}
