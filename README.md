@@ -48,5 +48,5 @@ GET /events
 DELETE /events/:id
 - [x] Should delete an event
 
-- PUT /events/:id
+PUT /events/:id
 - Should update an existing event
